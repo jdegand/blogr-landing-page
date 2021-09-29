@@ -57,14 +57,14 @@ Users should be able to:
 
 ### Useful resources
 
-- [Modern CSS](https://moderncss.dev/custom-select-styles-with-pure-css/)
-- [W3 Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp)
-- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/void)
-- [CSS Tricks](https://css-tricks.com/perfect-full-page-background-image/)
-- [Coder Coder](https://coder-coder.com/z-index-isnt-working/)
-- [Stack Overflow](https://stackoverflow.com/questions/28650327/responsive-images-srcset-not-working)
-- [Stack Overflow](https://stackoverflow.com/questions/58970536/cant-apply-background-gradient)
-- [CSS Tricks](https://css-tricks.com/almanac/properties/s/scrollbar-color/)
-- [Stack Overflow](https://stackoverflow.com/questions/6821295/add-css-box-shadow-around-the-whole-div)
-- [Stack Overflow](https://stackoverflow.com/questions/4950115/removeeventlistener-on-anonymous-functions-in-javascript)
-- [Stack Overflow](https://stackoverflow.com/questions/45383042/reverse-order-of-columns-in-css-grid-layout)
+- [Modern CSS](https://moderncss.dev/custom-select-styles-with-pure-css/) - custom select
+- [W3 Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) - responsive nav
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/void) - void
+- [CSS Tricks](https://css-tricks.com/perfect-full-page-background-image/) - background image
+- [Coder Coder](https://coder-coder.com/z-index-isnt-working/) - z-index issues
+- [Stack Overflow](https://stackoverflow.com/questions/28650327/responsive-images-srcset-not-working) - srcset
+- [Stack Overflow](https://stackoverflow.com/questions/58970536/cant-apply-background-gradient) - background gradient
+- [CSS Tricks](https://css-tricks.com/almanac/properties/s/scrollbar-color/) - scrollbar color
+- [Stack Overflow](https://stackoverflow.com/questions/6821295/add-css-box-shadow-around-the-whole-div) - box shadow
+- [Stack Overflow](https://stackoverflow.com/questions/4950115/removeeventlistener-on-anonymous-functions-in-javascript) - anonymous functions
+- [Stack Overflow](https://stackoverflow.com/questions/45383042/reverse-order-of-columns-in-css-grid-layout) - reverse grid columns
